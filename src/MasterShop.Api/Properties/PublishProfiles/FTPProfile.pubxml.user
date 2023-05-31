@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAzzdHCmhSMkKtmtoJG1/oHwAAAAACAAAAAAADZgAAwAAAABAAAADUMWFV4/KRZDbJ/g8FUmm5AAAAAASAAACgAAAAEAAAAPqd6NHoC4P4XHChoDg0zoIgAAAAhds7Dfl1yzlHCGbY30DLpnDAu3yo4P7hkB4TGY8YJu8UAAAAEaVqAncd/8ChtRq4zTjZOEDrjTo=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://master-shop.somee.com/www.master-shop.somee.com</_PublishTargetUrl>
+    <History>True|2022-03-31T14:20:21.9069524Z;False|2022-03-31T16:19:29.9261093+02:00;True|2022-03-31T16:17:28.4969186+02:00;False|2022-03-31T16:16:20.5311280+02:00;False|2022-03-31T16:16:12.0331929+02:00;False|2022-03-31T16:15:47.5147572+02:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>03/31/2022 16:01:26</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>03/31/2022 16:01:26</publishTime>
+    </File>
+    <File Include="MasterShop.Api.deps.json">
+      <publishTime>03/31/2022 16:20:12</publishTime>
+    </File>
+    <File Include="MasterShop.Api.dll">
+      <publishTime>03/31/2022 16:20:12</publishTime>
+    </File>
+    <File Include="MasterShop.Api.exe">
+      <publishTime>03/31/2022 16:20:12</publishTime>
+    </File>
+    <File Include="MasterShop.Api.pdb">
+      <publishTime>03/31/2022 16:20:12</publishTime>
+    </File>
+    <File Include="MasterShop.Api.runtimeconfig.json">
+      <publishTime>03/31/2022 16:15:43</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 22:14:12</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>04/20/2021 12:26:08</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>04/20/2021 12:26:08</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>04/20/2021 12:26:30</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>03/31/2022 16:20:12</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5025ada8-5cdd-4fdd-b01c-a50e14a9ff0f/resourceGroups/MasterShop/providers/Microsoft.Web/sites/mastershop-api",
+    "appService.deploySubpath": "."
+}
